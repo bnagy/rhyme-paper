@@ -3,3 +3,5 @@
 LaTeX and figures for the preprint 'Rhyme in Latin Poetry: Stylistic or Stochastic'.
 
 Further information will be added if the paper is accepted for publication.
+
+LaTeX 'preprint' style from [here](https://github.com/brenhinkeller/preprint-template.tex)
