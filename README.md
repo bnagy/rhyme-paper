@@ -6,6 +6,8 @@ The compiled [paper](rhyme_sos.pdf) is also included.
 
 Further information will be added if the paper is accepted for publication.
 
+*WARNING* This is a preprint, which has not been peer reviewed. The final paper will almost certainly include changes, which can sometimes be quite substantial. The results listed are also subject to change. For bonus points, the repro code is all included--prove me wrong!
+
 LaTeX 'preprint' style from [here](https://github.com/brenhinkeller/preprint-template.tex)
 
 ## ABSTRACT
