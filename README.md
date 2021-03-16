@@ -21,13 +21,13 @@ If you are also playing the Fun Academia Game, please help me refill my Academia
 
 ```
 @article{nagy_rhyme_2021,
-    author 		= "Nagy, Ben",
-    title  		= "Preprint: {R}hyme is classical {L}atin poetry: {S}tylistic or {S}tochastic?",
-    year   		= "2021",
-    publisher 	= {Zenodo},
-    version 	= {v1.0.2},
-    doi 		= {10.5281/zenodo.4589699},
-    howpublished = "\url{https://github.com/bnagy/rhyme-paper}"
+    author          = "Nagy, Ben",
+    title           = "Preprint: {R}hyme in classical {L}atin poetry: {S}tylistic or {S}tochastic?",
+    year            = "2021",
+    publisher       = {Zenodo},
+    version         = {v1.0.2},
+    doi             = {10.5281/zenodo.4589699},
+    howpublished    = "\url{https://github.com/bnagy/rhyme-paper}"
 }
 ```
 
