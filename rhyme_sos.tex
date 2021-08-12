@@ -1,7 +1,7 @@
 % !TeX encoding = UTF-8
 
 % \documentclass{article} % One-column default
-\documentclass[twocolumn, switch]{article} % Method A for two-column formatting
+\documentclass[twocolumn, switch, a4paper]{article} % Method A for two-column formatting
 
 \usepackage{preprint}
 
@@ -91,7 +91,6 @@
 % \setlength{\parindent}{0.3in} % indent paras with no skip (gross)
 % \setlength{\parskip}{0em}
 
-
 %%%%%%%%%%%%%%%%   Title   %%%%%%%%%%%%%%%%
 \title{Rhyme in Classical Latin Poetry: Stylistic or Stochastic?}
 
@@ -116,7 +115,7 @@ University of Adelaide
 
 %%%%%%%%%%%%%%    Front matter    %%%%%%%%%%%%%%
 \begin{document}
-
+\setcounter{page}{49}
 \twocolumn[ % Method A for two-column formatting
   \begin{@twocolumnfalse} % Method A for two-column formatting
   
@@ -1069,7 +1068,7 @@ complete works only, where the statistics are less variable.
 \label{tab:leo}
 \par\medskip
 \centering
-% \resizebox{0.95\linewidth}{!}{
+\begin{adjustbox}{totalheight=0.9\textheight}
   \begin{tabular}{lclcccclcc@{\hspace{1\tabcolsep}}c@{\hspace{1\tabcolsep}}c}
   \toprule
           &&&&&&\multicolumn{3}{c}{Theoretical (Binomial)}&\multicolumn{3}{c}{Simulated}\\\cmidrule(lr{2pt}){7-9}\cmidrule(l{2pt}r){10-12}
@@ -1129,7 +1128,7 @@ complete works only, where the statistics are less variable.
        Tristia &     P &  slant leo & 1.3804 &   *** &  127 &         0 &        -- & -- &   73 &   92 &  111 \\
   \bottomrule
   \end{tabular}
-% }
+\end{adjustbox}
 \end{table*}
 
 \subsubsection{Leonine Rhymes (Table \ref{tab:leo})}
