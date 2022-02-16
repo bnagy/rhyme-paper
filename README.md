@@ -3,13 +3,17 @@
 
 LaTeX and figures for the preprint 'Rhyme in Classical Latin Poetry: Stylistic or Stochastic'.
 
-The compiled [paper](rhyme_sos.pdf) is also included.
+The compiled [preprint](rhyme_sos.pdf) is also included as a PDF.
 
 Further information will be added if the paper is accepted for publication.
 
 *WARNING* This is a preprint, which has not been peer reviewed. The final paper will almost certainly include changes, which can sometimes be quite substantial. The results listed are also subject to change. For bonus points, the repro code is all included--prove me wrong!
 
 LaTeX 'preprint' style from [here](https://github.com/brenhinkeller/preprint-template.tex)
+
+## UPDATE (Jan 27, 2022): Published Version
+
+The peer reviewed version of this paper has now been published in Digital Scholarship in the Humanities (OUP) and in most cases you should prefer the [published version](https://doi.org/10.1093/llc/fqab105).
 
 ## ABSTRACT
 
@@ -22,12 +26,10 @@ If you are also playing the Fun Academia Game, please help me refill my Academia
 ```
 @article{nagy_rhyme_2021,
     author          = "Nagy, Ben",
-    title           = "Preprint: {R}hyme in classical {L}atin poetry: {S}tylistic or {S}tochastic?",
+    title           = "{R}hyme in classical {L}atin poetry: {S}tylistic or {S}tochastic?",
     year            = "2021",
-    publisher       = {Zenodo},
-    version         = {v1.0.2},
-    doi             = {10.5281/zenodo.4589699},
-    howpublished    = "\url{https://github.com/bnagy/rhyme-paper}"
+    publisher       = {Digital Scholarship in the Humanities},
+    doi             = {\url{https://doi.org/10.1093/llc/fqab105}}
 }
 ```
 
